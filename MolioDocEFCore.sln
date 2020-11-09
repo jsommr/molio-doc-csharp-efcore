@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MolioDocEFCore", "MolioDocEFCore.csproj", "{0B5544CA-D738-4A93-A8F2-3F6F2FA6897B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B5544CA-D738-4A93-A8F2-3F6F2FA6897B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B5544CA-D738-4A93-A8F2-3F6F2FA6897B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B5544CA-D738-4A93-A8F2-3F6F2FA6897B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B5544CA-D738-4A93-A8F2-3F6F2FA6897B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6F6287C-AE46-4F29-8EBD-1D77C93B24FC}
+	EndGlobalSection
+EndGlobal
