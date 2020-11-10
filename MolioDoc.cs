@@ -151,7 +151,6 @@ namespace MolioDocEFCore
                 return memory.ToArray();
             }
         }
-
     }
 
     [Table("bygningsdelsbeskrivelse_section_attachment")]
